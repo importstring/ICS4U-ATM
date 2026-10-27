@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "banks": [
+    {
+      "id": "7707bd89-428e-421d-af8a-98c66a173c0d",
+      "name": "Bank of Canada",
+      "currency": "CAD",
+      "theme": "canada",
+      "created_at": "2026-10-23T00:17:31.193716+00:00",
+      "accounts": [
+        {
+          "id": "0df94b86-bee4-46b3-ab20-9ede67fa38f6",
+          "user_id": "6c5669b4-8bd4-435f-a36d-0c80094fcc8b",
+          "acc_type": "Chequing",
+          "password_hash": "pbkdf2_sha256$600000$ffafe2a425f49ba243fd720887c2d06e$2f78be63346335176b791f874e1bf896e51c203afa6e167bb0fdda1bc4ccf045",
+          "created_at": "2026-10-23T00:57:36.860181+00:00"
+        },
+        {
+          "id": "a482c5c2-3594-4ebe-840c-5518f9d93a7c",
+          "user_id": "6c5669b4-8bd4-435f-a36d-0c80094fcc8b",
+          "acc_type": "Savings",
+          "password_hash": "pbkdf2_sha256$600000$b583cb95f25b7b3417afdd603b909ed2$9577116e063138c4a499ae5844e46d6065c51edeb0ac0c5dbdd9bff655451e50",
+          "created_at": "2026-10-23T01:01:16.426271+00:00"
+        },
+        {
+          "id": "e7b13ea4-3fda-43f6-a2ff-9deb92e85a5c",
+          "user_id": "2502f00d-4f06-489c-aebf-66c2df5bfdcf",
+          "acc_type": "Chequing",
+          "password_hash": "pbkdf2_sha256$600000$c6998442bf71fffc6ffdc042d4da79d2$9d8b4e6118e6c16212923163c341660a1764a3d7f1e156c2d39a2adef4987f36",
+          "created_at": "2026-10-23T01:07:53.894454+00:00"
+        },
+        {
+          "id": "a71fd83b-463e-4b43-a05b-f0f601b2a269",
+          "user_id": "59097ae2-9a7b-49b5-bda8-cf8c98f4f763",
+          "acc_type": "Chequing",
+          "password_hash": "pbkdf2_sha256$600000$249a499ddbc02bb09d3cb405ba56fbe7$de420441c96233a60c2b1b2c1c7dcd84aacc7d62626a0cad00b75d4c4f3e1516",
+          "created_at": "2026-10-23T13:04:02.965789+00:00"
+        },
+        {
+          "id": "48262b76-ec0d-44ba-9ad9-5bc484b9ec6e",
+          "user_id": "9e3c3b03-00f2-4cf5-ab1c-ba812937a8f9",
+          "acc_type": "Savings",
+          "password_hash": "pbkdf2_sha256$600000$efe523ca33b55106f5e3b8d76adc64ca$e0b5736d1b5f2dc1ed3f2fbb5db0acdbe412bc6fba617017544319fa9440a57b",
+          "created_at": "2026-10-23T15:39:53.810443+00:00"
+        },
+        {
+          "id": "75cf1b24-2a32-4c3d-882b-aeb1711da94d",
+          "user_id": "1e7be524-b62c-4c3f-87ff-1839c7733c98",
+          "acc_type": "Chequing",
+          "password_hash": "pbkdf2_sha256$600000$41f4135cea495dcc2a6194d2b82296a6$5389e14c3e065f6e76fc3d52c95ab3f401d84f3958679229fa66c9037b948fc5",
+          "created_at": "2026-10-24T01:12:54.218377+00:00"
+        }
+      ]
+    },
+    {
+      "id": "908ad3b9-42f9-48ef-89e0-93de4b4b7a61",
+      "name": "Bank of England",
+      "currency": "GBP",
+      "theme": "england",
+      "created_at": "2026-10-23T00:17:31.194509+00:00",
+      "accounts": [
+        {
+          "id": "890269f0-5738-4baf-b968-4a27b26f38d7",
+          "user_id": "6c5669b4-8bd4-435f-a36d-0c80094fcc8b",
+          "acc_type": "Chequing",
+          "password_hash": "pbkdf2_sha256$600000$e8f5d6b4e54b7cfdcd4f71d6769ccdb7$8879bde43d1ef81ee11c7228545c9ca1a9f5bc5864cf56f2f3c0337624218532",
+          "created_at": "2026-10-23T01:00:53.792318+00:00"
+        }
+      ]
+    },
+    {
+      "id": "b4a56176-b0be-4257-897e-7a4f064816c7",
+      "name": "Tokyo Bank",
+      "currency": "JPY",
+      "theme": "japan",
+      "created_at": "2026-10-23T00:17:31.194515+00:00",
+      "accounts": [
+        {
+          "id": "3525f9d8-4643-4ff7-86cb-84425e617650",
+          "user_id": "2502f00d-4f06-489c-aebf-66c2df5bfdcf",
+          "acc_type": "Chequing",
+          "password_hash": "pbkdf2_sha256$600000$2a37c4c1e72cf87fe7a7722a1d94f721$b0613cd7a475ec67f65da47c7062fd17df3b057dec975dbaf4cc5826db8547e3",
+          "created_at": "2026-10-23T01:08:09.363138+00:00"
+        },
+        {
+          "id": "932834c4-abf7-4131-b731-269a60228acf",
+          "user_id": "9e3c3b03-00f2-4cf5-ab1c-ba812937a8f9",
+          "acc_type": "Chequing",
+          "password_hash": "pbkdf2_sha256$600000$baa8ef548fc48750d91f8db302ea310d$1afbfa618ec8714969f02b7697eec94ddb02ac514575f7f94d6240104edc3b7c",
+          "created_at": "2026-10-23T15:38:51.523881+00:00"
+        }
+      ]
+    },
+    {
+      "id": "d6f70f1e-6101-4087-9ea6-ed129f7f17e4",
+      "name": "Europa Bank",
+      "currency": "EUR",
+      "theme": "europe",
+      "created_at": "2026-10-23T00:17:31.194518+00:00",
+      "accounts": [
+        {
+          "id": "b85d02ac-67f0-4a30-b862-ad4137565a4e",
+          "user_id": "2b80ec01-d74a-4133-971e-b116464e11f1",
+          "acc_type": "Chequing",
+          "password_hash": "pbkdf2_sha256$600000$37d33738d92075ce5c955c729585a933$0de58be49df83fd951bfbd24a4b1852f9eb983e7ed902195f1587a046c56f7fc",
+          "created_at": "2026-10-23T01:16:09.950952+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ca92942b-9476-4a0e-87a3-6c19a3ece39a",
+      "name": "Southern Cross Bank",
+      "currency": "AUD",
+      "theme": "australia",
+      "created_at": "2026-10-23T00:17:31.194522+00:00",
+      "accounts": [
+        {
+          "id": "be3276eb-ca70-4c80-94d5-73e39f33b7a9",
+          "user_id": "a94da066-8b41-4aae-8ec9-176e4c744183",
+          "acc_type": "Chequing",
+          "password_hash": "pbkdf2_sha256$600000$f1753b6aa06be77a554fa391633029b1$419f2cff05fe0de9266120491d84f7b8d1144b0c9359f61c6d002cc605d03753",
+          "created_at": "2026-10-23T13:56:57.598470+00:00"
+        }
+      ]
+    }
+  ]
+}

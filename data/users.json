@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "users": [
+    {
+      "id": "a94da066-8b41-4aae-8ec9-176e4c744183",
+      "username": "Simon",
+      "password_hash": "pbkdf2_sha256$600000$ecc55547364d209a959a91f4888457d8$7db626d5e7388ac4016a653f10984ffba9f00f2076ca0df9a3322dfaab9786d2",
+      "is_admin": true,
+      "created_at": "2026-10-23T00:00:24.638522+00:00"
+    },
+    {
+      "id": "c10bcbde-0c47-41b4-b7bb-4341e070888e",
+      "username": "You",
+      "password_hash": "pbkdf2_sha256$600000$dcbe18579bb00c6e96359d7f3e736de3$900e2c54112fffd96f06b897f7c72ad5bb292f3be93b0c094dc2ce91146dead7",
+      "is_admin": false,
+      "created_at": "2026-10-23T00:11:41.383223+00:00"
+    },
+    {
+      "id": "89ac024a-5b62-4370-a3d9-de405bd5a7ac",
+      "username": "Groundzero",
+      "password_hash": "pbkdf2_sha256$600000$41d82d8054da45e883c65674e0b958b5$00dac15b222a42872742e8997c0bb40db99ebd795e06974e11e09676045e23c9",
+      "is_admin": false,
+      "created_at": "2026-10-23T00:14:04.228163+00:00"
+    },
+    {
+      "id": "6c5669b4-8bd4-435f-a36d-0c80094fcc8b",
+      "username": "Jj",
+      "password_hash": "pbkdf2_sha256$600000$b3b4d7866d8e7fb69dbb22ccd286ae93$7fbf0a1e26c309e324461bd46c70b07c6db93d7b367f3c6b9545789df9e3d46f",
+      "is_admin": false,
+      "created_at": "2026-10-23T00:17:52.499312+00:00"
+    },
+    {
+      "id": "2502f00d-4f06-489c-aebf-66c2df5bfdcf",
+      "username": "Simonb",
+      "password_hash": "pbkdf2_sha256$600000$67634b5c9519fa5c8c4b18885f322561$bf657d6eab8974fc4c53dcdc69191fddf8c2d29955672a86272d75bd45f8494d",
+      "is_admin": false,
+      "created_at": "2026-10-23T01:07:34.859519+00:00"
+    },
+    {
+      "id": "2b80ec01-d74a-4133-971e-b116464e11f1",
+      "username": "Alain",
+      "password_hash": "pbkdf2_sha256$600000$58d9208c954c27afcf2b449190c2b05d$b33719edb0309fc11ac4114bb918d5db589c58e97118c4b22d69e079f7df8d86",
+      "is_admin": false,
+      "created_at": "2026-10-23T01:15:51.989587+00:00"
+    },
+    {
+      "id": "59097ae2-9a7b-49b5-bda8-cf8c98f4f763",
+      "username": "a",
+      "password_hash": "pbkdf2_sha256$600000$f1928269acc494a4c1f85ce1e646c5ff$6433bad548372ba51aa19cb20949f4f879e63264e83e7d4c707fb7a98160e709",
+      "is_admin": false,
+      "created_at": "2026-10-23T13:03:44.239312+00:00"
+    },
+    {
+      "id": "1e7be524-b62c-4c3f-87ff-1839c7733c98",
+      "username": "MrG",
+      "password_hash": "pbkdf2_sha256$600000$1df8c2c08f723f96b507a7a7c0b562ef$afbd23594ef14471b7d338b4ed5fd6ec5aed7f9188c1168516a8bbe1552603f9",
+      "is_admin": false,
+      "created_at": "2026-10-23T13:50:25.479172+00:00"
+    },
+    {
+      "id": "9e3c3b03-00f2-4cf5-ab1c-ba812937a8f9",
+      "username": "Prototype",
+      "password_hash": "pbkdf2_sha256$600000$f6cbede4e870624a7134516bd6ef0e26$471cd4ac68f0806bfeca124a929a15ce4b53e222a9c8f3d03f3ebb6bc0baf9b0",
+      "is_admin": false,
+      "created_at": "2026-10-23T15:38:39.217684+00:00"
+    }
+  ]
+}
